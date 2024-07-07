@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+![Profile Picture](https://avatars.githubusercontent.com/aanchalpandey783)
+
 Welcome to my GitHub profile! I'm a passionate Flutter app developer with a keen interest in building beautiful and functional mobile applications.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
