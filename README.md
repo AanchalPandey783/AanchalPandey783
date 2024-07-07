@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter app developer with a keen
 
 Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/aanchal-pandey-295625245/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanchalpandey783l@example.com)
 
 
 Thanks for stopping by my profile! Let's connect and make something amazing together!
