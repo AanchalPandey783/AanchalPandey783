@@ -15,15 +15,15 @@ Welcome to my GitHub profile! I'm a passionate Flutter app developer with a keen
 - 🌱 I’m learning advanced Flutter techniques and exploring the latest in mobile development
 - 👯  I’m looking to collaborate on open-source Flutter projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter, OOPS, Firebase, REST Apis, Provider, BLOC & GetX
+- 💬 Ask me about Flutter, OOPS, Python, REST APIs
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: My coding sessions are energized by a unique ritual – taking a quick dance break to recharge my creative energy.
   
 ## 🚀 Skills
 
 - **Languages:** Dart, JavaScript, HTML, CSS, Python, C++
-- **Frameworks & Libraries:** Flutter, GetX, Bloc, Redux, Provider
-- **Tools:** Firebase, Cloud Firestore, REST APIs, Figma
+- **Frameworks & Libraries:** Flutter, GetX, Bloc, Redux, Provider, Numpy, Pandas, TensorFlow
+- **Tools:** Firebase, Cloud Firestore, REST APIs, Figma, PyCharm
 
 ## 📈 GitHub Stats
 
