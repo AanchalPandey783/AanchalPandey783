@@ -27,10 +27,8 @@ Tools: MySQL, Git/GitHub, VS Code, Figma
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanchalpandey783&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchalpandey783&layout=compact&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aanchalpandey783&show_icons=true&theme=radical&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aanchalpandey783&show_icons=true&theme=radical&cache_seconds=1800)
 Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/aanchal-pandey-295625245/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanchalpandey783l@example.com)
